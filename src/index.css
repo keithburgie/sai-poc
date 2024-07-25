@@ -2,7 +2,7 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
-/* Optional fallback values */
+/* Default / fallback values */
 :root {
   --color-primary: #3b82f6;
   --color-secondary: #10b981;

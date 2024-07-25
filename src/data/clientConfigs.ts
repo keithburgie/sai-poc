@@ -40,7 +40,7 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     name: "University A",
     logo: "https://placehold.co/250x32/black/white/?text=University+Logo",
     email: "contact@university-a.edu",
-    theme: "green",
+    theme: "college2",
     questions: [
       "name",
       "email",
@@ -75,7 +75,7 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     name: "College B",
     logo: "https://placehold.co/250x32/black/white/?text=College+Logo",
     email: "support@college-b.edu",
-    theme: "yellow",
+    theme: "college3",
     questions: [
       "name",
       "email",
@@ -116,7 +116,7 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     name: "Tech Institute C",
     logo: "https://placehold.co/250x32/black/white/?text=Tech+Institute+Logo",
     email: "info@tech-institute.edu",
-    theme: "red",
+    theme: "college4",
     questions: [
       "name",
       "email",
@@ -151,7 +151,7 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     name: "Community College D",
     logo: "https://placehold.co/250x32/black/white/?text=Community+College+Logo",
     email: "help@community-college.edu",
-    theme: "purple",
+    theme: "college5",
     questions: [
       "name",
       "email",
@@ -186,7 +186,7 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     name: "Art School E",
     logo: "https://placehold.co/250x32/black/white/?text=Art+School+Logo",
     email: "artsy@fartsy.edu",
-    theme: "orange",
+    theme: "college6",
     questions: [
       "name",
       "email",
