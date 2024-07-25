@@ -13,6 +13,7 @@ const FormPage: React.FC = () => {
   const handleSubmit = async (data: FormData) => {
     try {
       await submitSurvey(data, client.name);
+      localStorage.setItem('submittedSurveyData', JSON.stringify(data));
       navigate("../completion");
     } catch (error) {
       console.error("Failed to submit survey:", error);
