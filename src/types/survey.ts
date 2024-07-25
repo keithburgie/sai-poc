@@ -1,7 +1,6 @@
 export type PredefinedQuestionId = 
   | "name"
   | "email"
-  | "ssn"
   | "dateOfBirth"
   | "citizenship"
   | "maritalStatus"

@@ -20,18 +20,6 @@ export const predefinedQuestions: Question[] = [
     },
   },
   {
-    id: "ssn",
-    type: "text",
-    label: "What is your Social Security Number (SSN)?",
-    validation: {
-      required: "SSN is required",
-      pattern: {
-        value: /^\d{3}-\d{2}-\d{4}$/,
-        message: "Invalid SSN format. Please use XXX-XX-XXXX",
-      },
-    },
-  },
-  {
     id: "dateOfBirth",
     type: "date",
     label: "What is your date of birth?",

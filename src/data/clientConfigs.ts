@@ -19,7 +19,6 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     questions: [
       "name",
       "email",
-      "ssn",
       "dateOfBirth",
       "citizenship",
       "maritalStatus",
@@ -29,7 +28,6 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     questionOrder: [
       "name",
       "email",
-      "ssn",
       "dateOfBirth",
       "citizenship",
       "maritalStatus",
@@ -44,7 +42,6 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     questions: [
       "name",
       "email",
-      "ssn",
       "dateOfBirth",
       "citizenship",
       "highSchoolCompletion",
@@ -63,7 +60,6 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     questionOrder: [
       "name",
       "email",
-      "ssn",
       "dateOfBirth",
       "citizenship",
       "highSchoolCompletion",
@@ -79,7 +75,6 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     questions: [
       "name",
       "email",
-      "ssn",
       "dateOfBirth",
       "maritalStatus",
       "numberOfDependents",
@@ -102,7 +97,6 @@ export const clientConfigs: { [key: string]: ClientConfig } = {
     questionOrder: [
       "name",
       "email",
-      "ssn",
       "dateOfBirth",
       "maritalStatus",
       "numberOfDependents",

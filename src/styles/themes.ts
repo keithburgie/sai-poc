@@ -1,6 +1,5 @@
 export const themes = {
-  // a blue theme
-  // will act as fallback if set theme is invalid or doesn't exist
+  // a blue theme, fallback for all
   default: {
     primary: '#3b82f6',
     secondary: '#10b981',
